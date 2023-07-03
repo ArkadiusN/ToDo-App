@@ -1,4 +1,4 @@
-# ToDo-App <img src="Todo logo.PNG" height="120" align="left" style="margin-right:15px; margin-bottom:19px; border: 5px solid #181414" />
+# ToDo-App <img src="TodoLogo.PNG" height="120" align="left" style="margin-right:15px; margin-bottom:19px; border: 5px solid #181414" />
 
 **&raquo; An object-oriented ToDo application** <br/><sub> _100% Java_ &middot; _Java Swing_ &middot; _JAR file_</sub>
 
