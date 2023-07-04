@@ -15,7 +15,7 @@ ToDo-APP is a simple todo desktop list application. The initial version was bein
   - [1.2 Execute code in terminal](#12-execute-code-in-terminal)
   - [1.2 Execute JAR file in terminal](#13-execute-jar-file-in-terminal)
 - **[2 About the program](#2-about-the-program)**
-  - [2.1 Available options](#22-available-options)
+  - [2.1 Available options](#21-available-options)
   - [2.2 Wireframe](#22-wireframe)
 
 ## 1 Getting ToDo-APP
@@ -104,6 +104,6 @@ The interface consists of a comprehensive panel located on the left-hand side, e
 
 The project aligns with the pre-established wireframe, which served as the initial step of the project. Subsequently, the development progressed in accordance with the defined parameters outlined in the guidance file provided below.
 
-<embed src="https://github.com/ArkadiusN/ToDo-App/blob/master/coursework3.pdf" type="application/pdf">
+[Download PDF](https://github.com/ArkadiusN/ToDo-App/blob/master/coursework3.pdf)
 
 <sub>[[Top 🢁](#contents)]</sub>
